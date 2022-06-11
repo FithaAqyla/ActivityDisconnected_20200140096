@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\bin\Debug\DisconnectedEnvironmentt.exe.config
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\bin\Debug\DisconnectedEnvironmentt.exe
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\bin\Debug\DisconnectedEnvironmentt.pdb
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.Form1.resources
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.exe
+C:\Users\ASUS\source\repos\DisconnectedEnvironmentt\DisconnectedEnvironmentt\obj\Debug\DisconnectedEnvironmentt.pdb
